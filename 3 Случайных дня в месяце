@@ -10,7 +10,7 @@ def choose_days():
     sorted_days = sorted(random_days)
 
     
-    # На её основе будут генерироваться даты для занятий:
+    # На её основе будут генерироваться датs
     now = datetime.now(
     
     for i in range(1, 4):  
